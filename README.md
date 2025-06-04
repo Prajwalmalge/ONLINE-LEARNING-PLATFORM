@@ -19,11 +19,14 @@ Perfect for **students**, **self-learners**, or anyone looking for a basic, func
 output image :
 
 
+**HOME PAGE :**
 ![Screenshot (8)](https://github.com/user-attachments/assets/c432afa9-0a7a-4ed9-a7b7-c618712a66a6)
 
 
+**COURSE OFFERED :**
 ![Screenshot (9)](https://github.com/user-attachments/assets/fc6c9603-b720-4f88-a4ed-9f79f69a4b17)
 
 
+**VIDEO LESSONS :**
 ![Screenshot (10)](https://github.com/user-attachments/assets/a5ad9207-c26b-46ca-b1d9-83b309c666cc)
 
